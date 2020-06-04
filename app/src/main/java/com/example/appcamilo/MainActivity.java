@@ -43,6 +43,8 @@ public int sumar;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        // se agrego un comentario para verificar github
         setContentView(R.layout.activity_main);
 
     // damos acceso a firfebase
