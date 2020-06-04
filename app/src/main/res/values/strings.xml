@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">APP Camilo</string>
+
+    <string name="txttitulo">APP ALMACENAMIENTO</string>
+    <string name="txt_email">USUARIO</string>
+    <string name="txt_email2">INGRESE SU CORREO</string>
+    <string name="remenber">RECORDARME USUARIO</string>
+    <string name="btn_login">CREAR CUENTA</string>
+    <string name="btn_login2">REGRESAR</string>
+    <string name="btn_signup">INICIAR SESIÓN</string>
+    <string name="btn_signup2">ENVIAR LINK</string>
+    <string name="btn_password">PASSWORD</string>
+    <string name="textView2">OLVIDE MI CONTRASEÑA</string>
+    <string name="textView3">O</string>
+    <string name="textView5">CODIGO</string>
+    <string name="btn_salir">SALIR</string>
+    <string name="textView">ALMACENANDO CONFIANZA</string>
+    <string name="empresa">XXXXXXXXXXX</string>
+    <string name="textView4">Todos los derechos reservados</string>
+    <string name="textView6">Le enviaremos un link para que restablesca su contraseña</string>
+    <string name="textView7">AREA</string>
+    <string name="textView8">BIENVENIDO</string>
+    <string name="textView9">USUARIO</string>
+    <string name="textView10">PRODUCTO</string>
+    <string name="textView14">Ingrese una descripccionD</string>
+    <string name="textView15">DESCRIPCCION</string>
+    <string name="textView16">ESTADO</string>
+    <string name="textView17">UBICACIÓN</string>
+    <string name="EditText2"> </string>
+    <string name="EditText3"> </string>
+    <string name="probando">PROBANDO</string>
+    <string name="textView22">REGISTRE SU PRODUCTO</string>
+
+    <string name="spinner">DESCRIPCCIÓN</string>
+    <string name="spinner2">DESCRIPCCIÓN</string>
+
+    <string name="olvido">Olvide mi contraseña</string>
+    <string name="title_activity_forgotpasswoed">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="ed_producto">"Ingrese un producto"</string>
+    <string name="ed_descripccion">"DESCRIPCCION"</string>
+    <string name="ed_rm">"RM"</string>
+    <string name="ed_et_cantidad">"CANTIDAD"</string>
+    <string name="textView21">Ingrese numero de RM</string>
+    <string name="registrar">"REGISTRAR"</string>
+    <string name="regresar">"REGRESAR"</string>
+    <string name="buscarprod">"INGRESE RM DE PRODUCTO A MODIFICAR"</string>
+    <string name="buscar1">"BUSCAR PRODUCTO"</string>
+    <string name="modificar">"MODIFICAR PRODUCTO"</string>
+    <string name="login_failed" />
+    <string name="text_v_material">"NOMBRE PRINCIPAL"</string>
+    <string name="text_e_material">"MATERIAL"</string>
+    <string name="text_v_cantidad">"CANTIDAD"</string>
+    <string name="text_v_descripccion">"INGRESE DESCRIPCCION"</string>
+    <string name="text_e_cantidad">"CANTIDAD"</string>
+    <string name="text_e_descripccion">"DESCRIPCCION"</string>
+    <string name="text_v_unidad">"UND"</string>
+    <string name="text_e_unidad">"UND"</string>
+    <string name="text_v_usuario">"USUARIO"</string>
+    <string name="text_v_num_rm">"N0. RM 254155: "</string>
+    <string name="text_v_titulo1">"REQUISICIÓN DE MATERIAL"</string>
+    <string name="botonrecycler">"ENVIAR RM"</string>
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

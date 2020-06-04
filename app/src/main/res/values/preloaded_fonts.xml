@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/belleza</item>
+        <item>@font/bungee_inline</item>
+        <item>@font/eater</item>
+        <item>@font/sonsie_one</item>
+        <item>@font/vast_shadow</item>
+    </array>
+</resources>

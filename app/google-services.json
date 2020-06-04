@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "974682497181",
+    "firebase_url": "https://aplicacion-camilo.firebaseio.com",
+    "project_id": "aplicacion-camilo",
+    "storage_bucket": "aplicacion-camilo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974682497181:android:daaca25f541381d3a4b474",
+        "android_client_info": {
+          "package_name": "com.example.appcamilo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974682497181-1e1qal94v93caki0jod78bi6or8g2ks6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appcamilo",
+            "certificate_hash": "b9abcbafc6ae43832ad060d920c42e5d28e1ddfd"
+          }
+        },
+        {
+          "client_id": "974682497181-766mujrhv2oitl26ra0fou30cltm5b36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-k_9GA4h32K8ZG2dZFOHNSxeAll_7zJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974682497181-766mujrhv2oitl26ra0fou30cltm5b36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

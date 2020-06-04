@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+    android:id="@+id/atrasinf"
+    android:icon="@drawable/back_black_24dp"
+    android:title="ATRAS"/>
+
+    <item
+        android:id="@+id/homeinf"
+        android:icon="@drawable/home_black_24dp"
+        android:title="HOME"/>
+
+    <item
+    android:id="@+id/chatinf"
+    android:icon="@drawable/exit_black_24dp"
+    android:title="SALIR"/>
+
+
+
+</menu>
